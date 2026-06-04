@@ -1,0 +1,5 @@
+name = input("enter your name:")
+quantity = int(input("enter quantity:"))
+price = float(input("enter price:"))
+total =float(quantity * price)
+print(f"Total: {total}")
